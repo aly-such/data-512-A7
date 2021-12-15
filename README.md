@@ -4,6 +4,7 @@
 The goal of this assignment was to complete our proposed extension of assignment A4 that was outlined in assignment A5. An analysis of Covid data in San Diego county as well as other California counties was done to get a better understanding of tranmission rates as well as how the vaccine might affect rates. The analysis probed two research questions:
 1. Did the vaccine have an effect on COVID transmission rates in San Diego County?
 2. Was there a difference in COVID case rates and vaccination rates between San Diego County and other counties in California?
+3. 
 Within the analysis, time-series charts and heat maps were created, and t-testing was conducted to get some answers to these questions.
 
 
