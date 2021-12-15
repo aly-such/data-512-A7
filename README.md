@@ -8,8 +8,10 @@ Within the analysis, time-series charts and heat maps were created, and t-testin
 
 
 ## Data Sources:
-COVID Act Now: https://apidocs.covidactnow.org/#register
-California's County Populations: https://www.california-demographics.com/counties_by_population
+* COVID Act Now: https://apidocs.covidactnow.org/#register
+* License for Covid Act Now Data: https://creativecommons.org/licenses/by-nc-nd/4.0/
+* California's County Populations: https://www.california-demographics.com/counties_by_population
+* Personal License: https://github.com/aly-such/data-512-A7/blob/main/LICENSE
 
 ## Data Descriptions:
 ### https://api.covidactnow.org/v2/county/CA.timeseries.csv:
